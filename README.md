@@ -9,7 +9,7 @@
   <br>
   
   <span style="font-family: 'Courier New', monospace; font-size: 14px; color: #787d85; letter-spacing: 6px;">
-    [ 于 比 特 荒 原 &nbsp; 寻 弦 音 回 响 ]
+    「 于 比 特 荒 原 &nbsp; 寻 弦 音 回 响 」
   </span>
 
   <br><br><br>
